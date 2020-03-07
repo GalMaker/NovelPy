@@ -1,0 +1,2 @@
+pynoveldoc==0.1
+kivy==1.11.0
